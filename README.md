@@ -1,4 +1,4 @@
-# Medalyze — AI-Powered Hyperlocal Pharmaceutical Pricing Tracker
+# Medalyze — Real-Time Hyperlocal Pharmaceutical Pricing Tracker using APIs
 
 <!-- ============================================================
      HEADER & HERO IMAGE
